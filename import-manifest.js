@@ -1,0 +1,1 @@
+window["injectManifestCallback"]("MicroApp2", {"id":"82a8524170735d11ec36","name":"MicroApp2","meta":{},"chunks":["https://sychuginaanna.github.io/app.js"]});
