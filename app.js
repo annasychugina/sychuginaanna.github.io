@@ -87,7 +87,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "http://localhost:3002/";
+/******/ 	__webpack_require__.p = "https://sychuginaanna.github.io/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
@@ -110,7 +110,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ "react-router-dom");
 /* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_router_dom__WEBPACK_IMPORTED_MODULE_1__);
 var _this = undefined,
-    _jsxFileName = "/Users/a18483336/Desktop/mfrontends-demo-master 4/packages/app-02/src/index.tsx";
+    _jsxFileName = "/Users/a18483336/Desktop/modules-bundle-prototype/packages/app-02/src/index.tsx";
 
 
 
@@ -139,7 +139,7 @@ var App = function App() {
       lineNumber: 10,
       columnNumber: 9
     }
-  }, "Main Page")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
+  }, "Main Page Hello!!!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
     path: "/app2/info",
     exact: true,
     __self: _this,
@@ -155,7 +155,7 @@ var App = function App() {
       lineNumber: 13,
       columnNumber: 9
     }
-  }, "Info Page")));
+  }, "Info Page  Hello!!")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (App);
